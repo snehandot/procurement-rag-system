@@ -1,4 +1,0 @@
-[server]
-# This allows the app to be embedded in an iframe
-enableCORS = false
-enableXsrfProtection = false
